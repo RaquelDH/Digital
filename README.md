@@ -1,4 +1,4 @@
-### 2022-2024: Formación en Digital Transformation & Consulting (más de 400 horas)
+### 2022-2024: Formación en Digital Transformation & Consulting (más de 600 horas)
 
 1. **Competencias digitales** (120 h) - Centro de Desarrollo de Competencias Digitales de CLM -BILIB
 2. **SAP** - IEBS Business School
@@ -8,3 +8,6 @@
 6. **Generador de contenidos digitales** (80 h) - Centro de Desarrollo de Competencias Digitales de CLM -BILIB
 7. **Transformación digital** (50 h) - Instituto Europeo de Postgrado IEP
 8. **Comunicación y colaboración en la era digital** (30 h) - Programa de Formación Digital CONECTA EMPLEO
+9. **Metodología BIM y uso de REVIT** (100 h) - Centro de Desarrollo de Competencias Digitales de CLM -BILIB
+10. **Impresión y diseño de modelos 3D** (110 h) - Centro de Desarrollo de Competencias Digitales de CLM -BILIB
+11. **CRM** (20 h) - Confederación Argentina de la Mediana Empresa CAME
