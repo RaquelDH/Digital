@@ -1,4 +1,4 @@
-### 2022-2024: Formación en Digital Transformation & Consulting (más de 900 horas)
+### 2022-2024: Formación en Digital Transformation & Consulting (más de 1700 horas)
 
 1. **Competencias digitales** (120 h) - Centro de Desarrollo de Competencias Digitales de CLM -BILIB
 2. **SAP** - IEBS Business School
@@ -14,3 +14,14 @@
 12. **Pensamiento crítico en un mundo digital** (55 h) - Centro de Desarrollo de Competencias Digitales de CLM -BILIB
 13. **Dinamización de Puntos de Inclusión Digital y otras Aulas TIC** (80 h) - Centro de Desarrollo de Competencias Digitales de CLM -BILIB
 14. **Transformación digital del sector educativo** (100 h) - Centro de Desarrollo de Competencias Digitales de CLM -BILIB
+15. **Neuromarketing** (60 h) - Nascor Consultoría de Formación
+16. **E-commerce** (40 h) - Escuela de Organización Industrial EOI
+17. **Social Media Marketing** (50 h) - Instituto Europeo de Posgrado IEP
+18. **Analítica web** (30 h) - Programa de Formación Digital CONECTA EMPLEO
+19. **Administración avanzada de Wordpress** (100 h) - Centro de Desarrollo de Competencias Digitales CLM -BILIB
+20. **Creación y administración de una tienda online con PrestaShop** (100 h) - Centro de Desarrollo de Competencias Digitales CLM -BILIB
+21. **Comercio electrónico y marketing online** (70 h) - Centro de Desarrollo de Competencias Digitales CLM -BILIB
+22. **Marketing online (SEM, SEO y PPC)** (90 h) - Centro de Desarrollo de Competencias Digitales CLM -BILIB
+23. **Community Management para empresas** (90 h) - Centro de Desarrollo de Competencias Digitales CLM -BILIB
+24. **Growth Hacking** (30 h) - Programa de Formación Digital CONECTA EMPLEO
+25. **Creación y gestión profesional de un canal de YouTube** (95 h) - Centro de Desarrollo de Competencias Digitales CLM -BILIB
